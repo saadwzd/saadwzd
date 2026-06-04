@@ -22,15 +22,6 @@ Location: Casablanca, Morocco
 Role: AI Engineer
 
 
-Focus:
-  - AI Agents
-  - Multi-Agent Systems
-  - Large Language Models
-  - Workflow Automation
-  - RAG Systems
-  - SaaS AI Platforms
-  - Full Stack Development
-  - Big Data
 ```
 
 ---
