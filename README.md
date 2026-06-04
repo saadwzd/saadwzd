@@ -4,7 +4,7 @@
 
 ### 🤖 AI Engineer | ⚡ Full Stack Developer | 📊 Big Data Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;AI+Agents+Developer;LLM+Engineer;Full+Stack+Developer;Big+Data+Engineer;OpenAI+%7C+Claude+%7C+Gemini+%7C+Grok;Building+AI-Powered+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=AI+Engineer;AI+Agents+Engineer;LLM+Engineer;MCP+Developer;Full+Stack+Developer;Laravel+%7C+Node.js+%7C+Python;OpenAI+%7C+Claude+%7C+Gemini+%7C+Grok;Building+AI-Powered+SaaS+Platforms" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=saadwzd&label=Profile+Views&style=for-the-badge" />
@@ -20,38 +20,61 @@
 Name: Wizid Saad
 Location: Casablanca, Morocco
 Role: AI Engineer
-
-
 ```
 
 ---
 
-# 🤖 AI & LLM Stack
+# 🤖 AI & LLM Engineering
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge)
 ![Together AI](https://img.shields.io/badge/Together_AI-FF6B00?style=for-the-badge)
 
-![LLMs](https://img.shields.io/badge/Large_Language_Models-blue?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-success?style=for-the-badge)
-![Multi-Agent](https://img.shields.io/badge/Multi_Agent_Systems-green?style=for-the-badge)
-![Super Agents](https://img.shields.io/badge/Super_Agents-orange?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi_Agent_Systems-green?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-orange?style=for-the-badge)
+![Super Agents](https://img.shields.io/badge/Super_Agents-red?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-009688?style=for-the-badge)
+![Function Calling](https://img.shields.io/badge/Function_Calling-blueviolet?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=for-the-badge)
+![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-success?style=for-the-badge)
+
+---
+
+# 🧠 RAG & AI Infrastructure
+
 ![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-red?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-black?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-yellow?style=for-the-badge)
-![Function Calling](https://img.shields.io/badge/Function_Calling-blueviolet?style=for-the-badge)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-009688?style=for-the-badge)
+![Knowledge Base](https://img.shields.io/badge/Knowledge_Base-blue?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-success?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI_Automation-orange?style=for-the-badge)
 
 ---
 
 # 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,python" />
+<img src="https://skillicons.dev/icons?i=python,js,php" />
 </p>
+
+---
+
+# ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express" />
+</p>
+
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication-blue?style=for-the-badge)
+![Authorization](https://img.shields.io/badge/Authorization-red?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API_Integration-success?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-orange?style=for-the-badge)
+![Multi Tenant SaaS](https://img.shields.io/badge/Multi_Tenant_SaaS-blueviolet?style=for-the-badge)
 
 ---
 
@@ -61,21 +84,8 @@ Role: AI Engineer
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
----
-
-# ⚙️ Backend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
-![Authentication](https://img.shields.io/badge/Authentication-blue?style=for-the-badge)
-![Authorization](https://img.shields.io/badge/Authorization-red?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API_Integration-success?style=for-the-badge)
-![SaaS Architecture](https://img.shields.io/badge/SaaS_Architecture-orange?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-success?style=for-the-badge)
+![UI Development](https://img.shields.io/badge/UI_Development-blue?style=for-the-badge)
 
 ---
 
@@ -87,15 +97,18 @@ Role: AI Engineer
 
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 ![NoSQL](https://img.shields.io/badge/NoSQL-green?style=for-the-badge)
+![Database Design](https://img.shields.io/badge/Database_Design-orange?style=for-the-badge)
 
 ---
 
-# 📡 Communication Integrations
+# 📡 Communication & Integrations
 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)
-![Chat Widget](https://img.shields.io/badge/Embedded_Chat_Widget-blue?style=for-the-badge)
-![Messaging](https://img.shields.io/badge/Internal_Messaging_Systems-orange?style=for-the-badge)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![SMTP](https://img.shields.io/badge/SMTP-blue?style=for-the-badge)
+![IMAP](https://img.shields.io/badge/IMAP-success?style=for-the-badge)
+![Chat Widget](https://img.shields.io/badge/Embedded_Chat_Widget-orange?style=for-the-badge)
+![Messaging Systems](https://img.shields.io/badge/Messaging_Systems-red?style=for-the-badge)
 
 ---
 
@@ -106,51 +119,103 @@ Role: AI Engineer
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-orange?style=for-the-badge)
 ![PDF Processing](https://img.shields.io/badge/PDF_Processing-red?style=for-the-badge)
 ![Data Extraction](https://img.shields.io/badge/Data_Extraction-purple?style=for-the-badge)
-![Structured Data](https://img.shields.io/badge/Structured_Data-black?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-black?style=for-the-badge)
+![Structured Data](https://img.shields.io/badge/Structured_Data-blueviolet?style=for-the-badge)
+
+---
+
+# 🔥 Featured Projects
+
+## 🤖 DakiPay
+
+AI-Powered Multi-Tenant SaaS CRM
+
+### Features
+
+- AI Agents
+- Super Agents
+- RAG Systems
+- WhatsApp Integration
+- Payment Gateways
+- Multi-Tenant Architecture
+- Workflow Automation
+- Customer Management
+
+---
+
+## 🚛 Dakitrack AI Assistant
+
+AI Assistant for Fleet Management
+
+### Features
+
+- MCP Server
+- Tool Calling
+- Agent Orchestration
+- Vehicle Tracking Assistant
+- AI Chat System
+- Knowledge Retrieval
+- Email Automation
+
+---
+
+## 🩺 Sahha+
+
+AI-Powered Health Prevention Platform
+
+### Features
+
+- Virtual Health Coach
+- AI Assistant
+- Health Awareness
+- Youth Prevention Programs
+- Smart Recommendations
 
 ---
 
 # 🛠️ Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
 </p>
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-D97757?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge\&logo=elementor\&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge\&logo=openai\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 # 📈 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=saadwzd\&theme=tokyonight\&show_icons=true\&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=saadwzd&theme=tokyonight&show_icons=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=saadwzd\&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=saadwzd&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saadwzd\&theme=tokyonight\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saadwzd&theme=tokyonight&layout=compact)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=saadwzd\&theme=tokyonight\&no-frame=true\&row=1)
+![](https://github-profile-trophy.vercel.app/?username=saadwzd&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
 # 🎯 Current Focus
 
-* 🤖 AI Agents
-* 🧠 Large Language Models (LLMs)
-* ⚡ Agentic AI Systems
-* 🔍 RAG Applications
-* 🚀 AI SaaS Platforms
-* 📊 Big Data
-* 🌐 Full Stack Development
-* 🔄 Workflow Automation
+- 🤖 AI Agents
+- 🧠 LLM Applications
+- 🔌 MCP Ecosystems
+- ⚡ Agentic AI
+- 🛠️ Tool Calling Systems
+- 🔍 RAG Applications
+- 🚀 AI SaaS Platforms
+- 📊 Big Data Engineering
+- 🌐 Full Stack Development
+- 🔄 Workflow Automation
 
 ---
 
@@ -168,7 +233,7 @@ Role: AI Engineer
 
 # 📫 Contact
 
-📧 [wizidsaad5@gmail.com](mailto:wizidsaad5@gmail.com)
+📧 **wizidsaad5@gmail.com**
 
 💼 LinkedIn: https://linkedin.com/in/wizid-saad
 
@@ -178,7 +243,7 @@ Role: AI Engineer
 
 <div align="center">
 
-### 🚀 Building Intelligent Systems with AI
+### 🚀 Building Intelligent AI Systems
 
 *"Transforming Ideas into AI-Powered Solutions"*
 
