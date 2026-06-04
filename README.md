@@ -124,54 +124,7 @@ Role: AI Engineer
 
 ---
 
-# 🔥 Featured Projects
 
-## 🤖 DakiPay
-
-AI-Powered Multi-Tenant SaaS CRM
-
-### Features
-
-- AI Agents
-- Super Agents
-- RAG Systems
-- WhatsApp Integration
-- Payment Gateways
-- Multi-Tenant Architecture
-- Workflow Automation
-- Customer Management
-
----
-
-## 🚛 Dakitrack AI Assistant
-
-AI Assistant for Fleet Management
-
-### Features
-
-- MCP Server
-- Tool Calling
-- Agent Orchestration
-- Vehicle Tracking Assistant
-- AI Chat System
-- Knowledge Retrieval
-- Email Automation
-
----
-
-## 🩺 Sahha+
-
-AI-Powered Health Prevention Platform
-
-### Features
-
-- Virtual Health Coach
-- AI Assistant
-- Health Awareness
-- Youth Prevention Programs
-- Smart Recommendations
-
----
 
 # 🛠️ Tools & Platforms
 
