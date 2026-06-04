@@ -129,7 +129,7 @@ Role: AI Engineer
 # 🛠️ Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
