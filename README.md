@@ -6,9 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=AI+Engineer;AI+Agents+Engineer;LLM+Engineer;MCP+Developer;Full+Stack+Developer;Laravel+%7C+Node.js+%7C+Python;OpenAI+%7C+Claude+%7C+Gemini+%7C+Grok;Building+AI-Powered+SaaS+Platforms" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=saadwzd&label=Profile+Views&style=for-the-badge" />
-</p>
+
 
 </div>
 
