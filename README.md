@@ -141,21 +141,6 @@ Role: AI Engineer
 
 ---
 
-# 📈 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=saadwzd&theme=tokyonight&show_icons=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=saadwzd&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saadwzd&theme=tokyonight&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=saadwzd&theme=tokyonight&no-frame=true&row=1)
-
----
 
 # 🎯 Current Focus
 
